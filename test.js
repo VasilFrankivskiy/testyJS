@@ -506,5 +506,93 @@
 
 
 
+// function formatMessage(message, maxLength) {
+//   let result;
+// // Write your code under this line
+// if (message.length <= maxLength) {
+//   result = message 
+// } else {
+// result = message.slice(0,maxLength) +'...';
+// }
+// // Write your code above this line
+//  console.log (result);
+// }
+
+//  formatMessage('11111 22222 33333 44444 55555', 16) 
+// formatMessage('11111 22222 33333 44444 55555', 23)
+// formatMessage('11111 22222 33333 44444 55555', 41)
+
+
+
+
+
+// function normalizeInput(input) {
+//   const normalizedInput = input.toLowerCase() ; // Complete this line
+//   return normalizedInput;
+// }
+
+
+
+// function checkForName(fullName, name) {
+//  const result = fullName.includes(name) ; // Complete this line
+//   return result;
+// }
+
+
+
+
+
+// function checkForSpam(message) {
+//   let result;
+//   // Write your code under this line
+//   message = message.toLowerCase()
+//  if (message.includes('spam') || message.includes ('sale')) {
+//  result = true}
+//  else {
+//  result = false
+//  }
+//   // Write your code above this line
+// console.log (result);
+// }
+// checkForSpam('Trust me, this is not a spam message') 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// МОДУЛЬ 2222222222222222222222222222222222222222
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
