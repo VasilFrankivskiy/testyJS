@@ -587,9 +587,134 @@
 
 
 
+// function checkAge(age) {
+//   if (age >=18) { 
+//     return "You are an adult";
+//   }
+
+//   return "You are a minor";
+// }
 
 
 
+
+
+// function checkPassword(password) {
+//   const ADMIN_PASSWORD = "jqueryismyjam"; 
+
+//   if (password === ADMIN_PASSWORD) {
+//     return "Welcome!";
+//   } 
+//     return "Access denied, wrong password!";
+  
+
+ 
+//   // Change code above this line
+// }
+
+
+
+
+
+
+// function checkStorage(available, ordered) {
+//   // Change code below this line
+  
+
+//   if (ordered === 0) {
+//     return "Your order is empty!";
+//   }
+//   if (ordered > available) {
+//     return "Your order is too large, not enough goods in stock!";
+//   }
+  
+//     return "The order is accepted, our manager will contact you";
+//   }
+
+//   // Change code above this line
+
+
+
+
+
+// // Change code below this line
+// const fruits = ['apple','plum','pear','orange']
+
+
+
+
+
+
+
+
+// const fruits = ["apple", "plum", "pear", "orange"];
+
+// // Change code below this line
+// const firstElement = fruits [0];
+// const secondElement = fruits [1];
+// const lastElement = fruits[3];
+
+
+
+
+
+
+// const fruits = ["apple", "plum", "pear", "orange"];
+
+// // Write your code under this line
+// fruits [1] = 'peach'
+// fruits [3] = 'banana'
+
+
+
+
+
+
+
+// const fruits = ["apple", "peach", "pear", "banana"];
+
+// // Change code below this line
+// const fruitsArrayLength = fruits.length
+
+
+
+
+
+
+
+
+// const fruits = ["apple", "peach", "pear", "banana"];
+
+// // Change code below this line
+// const lastElementIndex = fruits.length -1
+// const lastElement =fruits [lastElementIndex]
+
+
+
+
+
+
+
+
+// function getExtremeElements(array) {
+//   // Change code below this line
+// return [(array[0]), array[array.length - 1]];
+
+
+//   // Change code above this line
+// }
+
+
+
+
+
+// function splitMessage(message, delimeter) {
+//   let words;
+//   // Change code below this line
+// words = message.split(delimeter)
+//   // Change code above this line
+//   return words;
+// }
 
 
 
